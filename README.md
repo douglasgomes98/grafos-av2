@@ -24,6 +24,6 @@
 
 ``` mean_distance(grafo) ```
 
-## docs
+## igraph docs
 
 [https://igraph.org/r/doc/](igraph)
