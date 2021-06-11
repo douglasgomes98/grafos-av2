@@ -23,3 +23,7 @@
 * calcula a distância media de todos para todos
 
 ``` mean_distance(grafo) ```
+
+## docs
+
+[https://igraph.org/r/doc/](igraph)
